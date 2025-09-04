@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Which tag creates a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<h1>",
+      "<p>"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Computer Styled Sections",
+      "Colorful Style Sheets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which HTML element contains JavaScript code?",
+    "options": [
+      "<script>",
+      "<js>",
+      "<javascript>",
+      "<code>"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which Array method adds to the end in JavaScript?",
+    "options": [
+      "push()",
+      "append()",
+      "add()",
+      "insert()"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "medium",
+    "question": "In React, which hook is used for side effects?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useMemo",
+      "useReducer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which HTTP status code means Not Found?",
+    "options": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "difficulty": "hard",
+    "question": "What does console.log(typeof null) print?",
+    "options": [
+      "'object'",
+      "'null'",
+      "'undefined'",
+      "'number'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "hard",
+    "question": "Time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which React feature is used for lazy-loading components?",
+    "options": [
+      "Suspense",
+      "Context",
+      "Ref",
+      "StrictMode"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which company developed React?",
+    "options": [
+      "Google",
+      "Facebook (Meta)",
+      "Microsoft",
+      "Twitter"
+    ],
+    "correctIndex": 1
+  }
+]
